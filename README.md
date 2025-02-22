@@ -30,7 +30,7 @@ The EMNIST Balanced dataset is meant to address the balance issues in the ByClas
 |Total| 131,600|
 |Classes| 47 (balanced)|
 
-![image](img_1.png)
+![image](https://github.com/Tanishhkaa/Handwritten-Digits-Recognition/blob/main/HandwrittenCharacterRecognition-main/img_1.png)
 
 
 ---
