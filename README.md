@@ -9,7 +9,7 @@
 <h4>Validation Accuracy : 95.76%</h4>
 <h4>Test Accuracy : 95.7588%</h4>
 
-![img.png](img.png)
+![image](img.png)
 
 -----------------------------------------------------------
 # Dataset
@@ -27,7 +27,7 @@ The EMNIST Balanced dataset is meant to address the balance issues in the ByClas
 |Total| 131,600|
 |Classes| 47 (balanced)|
 
-![img_1.png](img_1.png)
+![image](img_1.png)
 
 
 ---
