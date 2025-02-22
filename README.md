@@ -9,7 +9,7 @@
 <h4>Validation Accuracy : 95.76%</h4>
 <h4>Test Accuracy : 95.7588%</h4>
 
-![Model Evaluation](https://raw.githubusercontent.com/Tanishhkaa/Handwritten-Digits-Recognition/master/img.png)
+![Model Evaluation](https://raw.githubusercontent.com/Tanishhkaa/Handwritten-Digits-Recognition/main/img.png)
 
 
 
